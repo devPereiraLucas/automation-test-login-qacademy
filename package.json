@@ -1,0 +1,15 @@
+{
+  "name": "login-qacademy",
+  "version": "1.0.0",
+  "description": "Pagina de login da plataforma qacademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Lucas Pereira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "typescript": "^4.8.2"
+  }
+}
